@@ -1,5 +1,7 @@
-### Hi there 👋
+### Seja Bem-vindo(a)! 👋
 
+Me chamo Pedro Henrique e atualmente estou em formação para Fullstack Web Developer pelo bootcamp Labenu. 
+Sigo a paixão pela tecnologia e busco aperfeiçoar cada vez mais os conhecimentos nas tecnologias que domino e também nas que pretendo dominar.
 
 ### Status 
 <p align="justify">
@@ -48,3 +50,7 @@
     <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
 </p>
+
+<div align="center" >
+<img src="https://komarev.com/ghpvc/?username=pedrohenriqueduarte&color=red" />
+  </div>
