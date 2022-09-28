@@ -1,7 +1,8 @@
 ### Seja Bem-vindo(a)! 👋
 
-Me chamo Pedro Henrique e sou Fullstack Web Developer e atuo como Monitor de Programação na Labenu.
+Me chamo Pedro Henrique e atuo como Desenvolvedor Fullstack. Também já atuei com ensino de programação.
 Sigo a paixão pela tecnologia e busco aperfeiçoar cada vez mais os conhecimentos nas tecnologias que domino e também nas que pretendo dominar.
+Aprender e levar adiante o conhecimento é uma das coisas que mais gosto. 
 
 ### Status 
 <p align="justify">
